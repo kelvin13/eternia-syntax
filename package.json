@@ -1,11 +1,11 @@
 {
   "name": "eternia-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An Atom theme optimized for the Swift language.",
   "keywords": [
     "syntax",
-    "theme", 
+    "theme",
     "swift"
   ],
   "repository": "https://github.com/kelvin13/eternia-syntax",
